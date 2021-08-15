@@ -6,7 +6,11 @@ https://user-images.githubusercontent.com/80736284/127301599-ab9ad23b-af8b-47e7-
 Design 3:<br>
 ![pricingtable](https://user-images.githubusercontent.com/80736284/128414717-656b767d-3fcd-4468-b681-846d89cacb25.JPG)<br><br>
 Design 4:<br>
-https://user-images.githubusercontent.com/80736284/129006399-523e87db-7163-4ec3-af3e-dd98d38df998.mp4
+https://user-images.githubusercontent.com/80736284/129006399-523e87db-7163-4ec3-af3e-dd98d38df998.mp4<br><br>
+Design 5:<br>
+https://user-images.githubusercontent.com/80736284/129466981-5b3877c6-98c4-4d2f-a774-34916a95f740.mp4
+
+
 
 
 

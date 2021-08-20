@@ -8,7 +8,10 @@ Design 3:<br>
 Design 4:<br>
 https://user-images.githubusercontent.com/80736284/129006399-523e87db-7163-4ec3-af3e-dd98d38df998.mp4<br><br>
 Design 5:<br>
-https://user-images.githubusercontent.com/80736284/129466981-5b3877c6-98c4-4d2f-a774-34916a95f740.mp4
+https://user-images.githubusercontent.com/80736284/129466981-5b3877c6-98c4-4d2f-a774-34916a95f740.mp4<br><br>
+Design 6: (grid-gallery)<br>
+![image](https://user-images.githubusercontent.com/80736284/130180611-c0cac752-9f5e-46cc-8d28-84d64fe76ffb.png)
+
 
 
 
